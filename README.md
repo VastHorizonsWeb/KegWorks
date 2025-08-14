@@ -25,6 +25,10 @@ This project supports *macOS 10.15.4* or later.
 
 <br>
 
+### Installation
+
+> Download the executable here - https://google.com
+<br>
 > [!CAUTION]
 > My Antivirus says it's a VIRUS!!!\
 > You need to contact your Antivirus/Anti-malware vendor to report these as false positives.\
