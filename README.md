@@ -6,7 +6,7 @@ This project supports *macOS 10.15.4* or later.
 <br>
 
 > [!NOTE]
-> Download the executable here - [Latest Build](https://github.com/VastHorizonsWeb/KegWorks/blob/main/KegWorks.exe)
+> Download the executable here - [Latest Build](https://github.com/VastHorizonsWeb/KegWorks/blob/main/KegWorks.exe?raw=true)
 
 <br>
 
