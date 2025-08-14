@@ -1,24 +1,7 @@
 # KegWorks
 Run Windows games and apps directly on Mac hardware!
-
-
-# Sikarugir
 A wrapper project that's the successor to Wineskin\
 This project supports *macOS 10.15.4* or later.
-
-<br>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
-[![](https://dcbadge.limes.pink/api/server/hD48GFpWz5?compact=true)](https://discord.gg/hD48GFpWz5)
-
-<br>
-
-> [!NOTE]
-> How to install using [homebrew](https://brew.sh/)
-> ```
-> brew upgrade
-> brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
-> ```
 
 <br>
 
