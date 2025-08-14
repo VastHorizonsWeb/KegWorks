@@ -25,7 +25,7 @@ This project supports *macOS 10.15.4* or later.
 
 
 
-> Installation <br>
+> [!NOTE]
 > Download the executable here - https://google.com
 
 <br>
