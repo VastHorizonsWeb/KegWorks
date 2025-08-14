@@ -42,7 +42,7 @@ This project supports *macOS 10.15.4* or later. Forked and edited for performanc
 - `Configure.app` (modified version of  `Wineskin.app`)
 - `Creator.app` (modified version of `Wineskin Winery.app`)
 
-Sources can be found https://github.com/Sikarugir-App/Sikarugir-foss-sources
+
 
 <br>
 
